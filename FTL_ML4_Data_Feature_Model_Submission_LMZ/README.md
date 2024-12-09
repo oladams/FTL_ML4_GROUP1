@@ -192,7 +192,8 @@ plt.show()
 
 ## Screenshots
 
-![App Screenshot](images/BOXPlot%20after%20RMA%20Normalization.png)
+# BOXPlot_after_RMA_Normalization
+![App Screenshot](images/BOXPlot_after_RMA_Normalization.png)
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
