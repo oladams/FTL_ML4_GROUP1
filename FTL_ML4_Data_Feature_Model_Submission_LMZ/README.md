@@ -192,25 +192,45 @@ plt.show()
 
 ## Screenshots
 
-# BOXPlot_after_RMA_Normalization
-![App Screenshot](images/BOXPlot_after_RMA_Normalization.png)
+### BOXPlot before Normalization:
+![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/images/BOXPlot_before_Normalization.png?raw=true)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### BOXPlot after RMA Normalization:
+![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/images/BOXPlot_after_RMA_Normalization.png?raw=true)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Histogram of Raw Expression Values:
+![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/Histogram_of_Raw_Expression_Values.png?raw=true)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Histogram of Normalized Expression Values:
+![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/images/Histogram_of_Normalized_Expression_Values.png?raw=true)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Correlation Heatmap of Features:
+![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/images/Correlation_Heatmap_of_Features.png?raw=true)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### PCA Plot Clustering:
+![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/images/PCA_Plot_Clustering.png?raw=true)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Random Forest Confusion Matrix:
+![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/images/Random_Forest_Confusion_Matrix.png?raw=true)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Random Forest Roc Curve (AUC = 0.99):
+![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/images/Random_Forest_Roc_Curve.png?raw=true)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Random Forest Feature Importance:
+![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/images/Random_Forest_Roc_Curve.png?raw=true)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Gradient Boosting Confusion Matrix:
+![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/images/Gradient_Boosting_Confusion_Matrix.png?raw=true)
+
+### Gradient Boosting Roc Curve (AUC = 0.99):
+![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/images/Gradient_Boosting_Roc_Curve.png?raw=true)
+
+
+
+
+
+
+
+
+
