@@ -75,3 +75,13 @@ The test submission phase confirmed that the model generalized well to new data,
 - Python Libraries: pandas, numpy, scikit-learn, imblearn, matplotlib, seaborn
 - SMOTE: Chawla, N. V., et al. "SMOTE: Synthetic Minority Over-sampling Technique." Journal of Artificial Intelligence Research, 2002.
 - Random Forest Algorithm: Breiman, L. "Random Forests." Machine Learning, 2001.
+
+
+## Screenshots
+
+### Random Forest Leaning Curve:
+![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/images/Random_Forest_Leaning_Curve.png.png?raw=true)
+
+
+### Random Forest Feature Importance:
+![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/images/Random_forest_Feature_Importance.png?raw=true)
