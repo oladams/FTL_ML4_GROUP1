@@ -199,7 +199,7 @@ plt.show()
 ![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/images/BOXPlot_after_RMA_Normalization.png?raw=true)
 
 ### Histogram of Raw Expression Values:
-![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/Histogram_of_Raw_Expression_Values.png?raw=true)
+![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/images/Histogram_of_Raw_Expression_Values.png?raw=true)
 
 ### Histogram of Normalized Expression Values:
 ![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/images/Histogram_of_Normalized_Expression_Values.png?raw=true)
