@@ -80,7 +80,7 @@ The test submission phase confirmed that the model generalized well to new data,
 ## Screenshots
 
 ### Random Forest Leaning Curve:
-![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/images/Random_Forest_Leaning_Curve.png.png?raw=true)
+![App Screenshot](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/images/Random_Forest_Leaning_Curve.png?raw=true)
 
 
 ### Random Forest Feature Importance:
