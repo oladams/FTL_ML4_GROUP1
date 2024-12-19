@@ -3,7 +3,7 @@
 ## Project Title
 **Early Detection of Breast Cancer Using Gene Expression Profiling and Machine Learning Approaches**
 
-![Breast Cancer](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/Breast%20Cancer.jpeg?raw=true)
+![Breast Cancer](https://github.com/oladams/FTL_ML4_GROUP1/blob/main/Breast_Cancer.jpeg?raw=true)
 
 ---
 
