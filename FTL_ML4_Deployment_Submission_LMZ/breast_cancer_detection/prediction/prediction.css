@@ -1,0 +1,254 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f3;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #6a1b9a;
+    color: #fff;
+    padding: 10px 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+/* Menu */
+nav .menu {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+nav .menu li {
+    margin-left: 20px;
+}
+
+nav .menu li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1rem;
+    transition: color 0.3s;
+}
+
+nav .menu li a:hover {
+    color: #f4f4f9;
+    text-shadow: 0px 0px 3px #fff;
+}
+
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#prediction {
+    padding: 50px 20px;
+    background: linear-gradient(145deg, #f9f9fb, #ffffff);
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+#prediction h2 {
+    font-size: 2.5rem;
+    color: #6a1b9a;
+    margin-bottom: 15px;
+}
+
+#prediction p {
+    font-size: 1.1rem;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 25px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.form-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+label {
+    font-size: 1.1rem;
+    color: #6a1b9a;
+    display: block;
+    margin-bottom: 8px;
+}
+
+input[type="number"],
+textarea,
+input[type="file"] {
+    width: 100%;
+    padding: 12px;
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 1rem;
+}
+
+button {
+    text-decoration: none;
+    padding: 12px 25px;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #6a1b9a;
+    font-size: 1.1rem;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.3s;
+}
+
+button:hover {
+    background-color: #50157a;
+    transform: translateY(-3px);
+}
+
+button:active {
+    transform: translateY(1px);
+}
+
+#prediction-result {
+    margin-top: 30px;
+    background-color: #e9f7fb;
+    padding: 20px;
+    border-radius: 8px;
+    display: none;
+}
+
+#prediction-result h3 {
+    color: #6a1b9a;
+    font-size: 1.5rem;
+}
+
+#prediction-result p {
+    font-size: 1.2rem;
+    color: #333;
+}
+
+#prediction-explanation {
+    margin-top: 30px;
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+#prediction-explanation h4 {
+    color: #6a1b9a;
+    font-size: 1.3rem;
+}
+
+#prediction-explanation p {
+    font-size: 1rem;
+    color: #555;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    background-color: #6a1b9a;
+    color: #fff;
+    width: 97%;
+    bottom: 0;
+    left: 0;
+    font-size: 0.9rem;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: color 0.3s;
+}
+
+footer a:hover {
+    color: #ffcbff;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    #prediction h2 {
+        font-size: 2rem;
+    }
+
+    form {
+        padding: 15px;
+    }
+
+    button {
+        font-size: 1rem;
+        padding: 10px 20px;
+    }
+
+    #prediction-result h3 {
+        font-size: 1.3rem;
+    }
+
+    #prediction-result p {
+        font-size: 1rem;
+    }
+
+    #prediction-explanation h4 {
+        font-size: 1.1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    #prediction h2 {
+        font-size: 1.8rem;
+    }
+
+    form {
+        padding: 10px;
+        width: 100%;
+    }
+
+    .form-group label {
+        font-size: 1rem;
+    }
+
+    input[type="number"],
+    textarea,
+    input[type="file"] {
+        padding: 8px;
+        font-size: 0.95rem;
+    }
+
+    button {
+        font-size: 0.9rem;
+        padding: 8px 15px;
+    }
+
+    #prediction-result h3 {
+        font-size: 1.2rem;
+    }
+
+    #prediction-result p {
+        font-size: 0.95rem;
+    }
+
+    #prediction-explanation h4 {
+        font-size: 1rem;
+    }
+
+    #prediction-explanation p {
+        font-size: 0.9rem;
+    }
+}
